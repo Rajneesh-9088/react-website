@@ -36,10 +36,10 @@ const styles ={
    
         background: 'yellow',
         borderRadius: '50%',
-        padding: '40px 8px',
+        padding: '4px 8px',
         position: 'absolute',
         right: 0,
-        top: 9
+        top: -9
     }
 }
 
